@@ -1,4 +1,4 @@
-# Importar Ca Epi
+# Importar CA Epi
 Importar e extrair lista de CA's do site do Ministério do Trabalho
 
 O arquivo com as datas de validade de CA's é baixado do seguinte arquivo Zip: 
