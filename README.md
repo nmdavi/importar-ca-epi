@@ -5,6 +5,10 @@ O arquivo com as informações dos Certificados de Aprovação dos Equipamentos 
 
 ftp://ftp.mtps.gov.br/portal/fiscalizacao/seguranca-e-saude-no-trabalho/caepi/tgg_export_caepi.txt
 
+Poderá acessar o FTP onde está o arquivo removendo o nome do arquivo da URL assim: ftp://ftp.mtps.gov.br/portal/fiscalizacao/seguranca-e-saude-no-trabalho/caepi 
+
+Nesse último caso abra a URL usando algúm programa leitor de FTP, no Windows você pode usar o Internet Explorer para isso, ou usar FileZilla e equivalentes de sua prefência.
+
 O arquivo baixado pelo programa fica na pasta C:\CaEpi que pode ser alterada pelo arquivo Pasta.txt
 
 Faça bom uso
