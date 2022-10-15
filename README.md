@@ -7,7 +7,7 @@ ftp://ftp.mtps.gov.br/portal/fiscalizacao/seguranca-e-saude-no-trabalho/caepi/tg
 
 Poderá acessar o FTP onde está o arquivo removendo o nome do arquivo da URL assim: ftp://ftp.mtps.gov.br/portal/fiscalizacao/seguranca-e-saude-no-trabalho/caepi
 
-Nesse último caso abra a URL usando algum programa leitor de FTP, no Windows você pode usar o Internet Explorer para isso, ou usar FileZilla e equivalentes de sua preferência.
+Nesse último caso abra a URL usando algum programa leitor de FTP, no Windows você pode usar o Internet Explorer para isso, ou usar FileZilla e equivalentes de sua preferência. Nesse repositório faço isso usando DotNet.
 
 O arquivo baixado pelo programa fica na pasta C:\CaEpi que pode ser alterada pelo arquivo Pasta.txt
 
